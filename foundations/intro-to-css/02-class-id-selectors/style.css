@@ -6,9 +6,14 @@
 #another-id {
     background-color: rgb(0,255,127);
     font-size: 24px;
+    font-weight: bold;
 }
 
 .a-class {
     background-color: rgb(255, 187, 187);
     font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.but-cooler {
+    font-size: 24px;
 }
