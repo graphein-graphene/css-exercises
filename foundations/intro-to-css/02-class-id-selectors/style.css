@@ -1,9 +1,14 @@
-#one {
+#one-id {
     font-size: 36px;
     color: rgb(0,0,255)
 }
 
-#two {
+#another-id {
     background-color: rgb(0,255,127);
     font-size: 24px;
+}
+
+.a-class {
+    background-color: rgb(255, 187, 187);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
